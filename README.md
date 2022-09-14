@@ -18,5 +18,5 @@ Completo
 # FEATURES
 . Abstrair logica do palíndromo [x]   
 . Criar variáveis [x]     
-. Criar loop [x]
+. Criar loop [x]      
 . Criar condicionais [x]                         
